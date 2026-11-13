@@ -12,4 +12,4 @@ My most relevant (but not only) contributions to the R cosmos include:
 
 If you want to learn more about me and my work, please consider visiting my [personal website](https://dschulz13.github.io/) hosted here on GitHub. There I also publish blog posts or full project reports (using R, Python or MySQL) from time to time.
 
-For any type of feedback, consider the `Issues` sections in my repositories or contact me directly via [dominik.schulz.r@gmail.com](mailto:dominik.schulz.r@gmail.com).
+For any type of feedback, please consider the `Issues` sections in my repositories or contact me directly via [dominik.schulz.r@gmail.com](mailto:dominik.schulz.r@gmail.com).
